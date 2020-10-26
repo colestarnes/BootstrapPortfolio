@@ -4,10 +4,13 @@ p {
 } 
 
 .form-control {
-    margin-left: 100px; 
-    width: 1050px;
+    padding: 10px; 
 } 
 
 #formGroupExampleInput3 {
-    height: 400px;
-} 
+    height: 200px; 
+}  
+
+.form-group {
+    position: relative;
+}
